@@ -386,7 +386,7 @@ Params:
 Se desplegó el BackEnd en Render.com, puedes acceder a la API en:
 
 ```
-https://github.com/MriquelmeCPHCJA/DONA-T-BACKEND
+https://dona-t-backend.onrender.com
 ```
 
 ## 📧 Contácto
