@@ -17,7 +17,7 @@
 ##  🏨 Introducción
 En este proyecto, el objetivo fue construir una aplicación backend que administre la autenticación y autorización de los usuarios, tambien el despliegue de articulos en venta. El proyecto fue orientado en un sitio de Donaciones para eventos catastroficos de fuerza natural..
 
-Se ytilizó MongoDB Atlas y Mongoose para la persistencia de datos, y construí un modelo de "usuario", un modelo de "producto" y un modelo de "categorias". Se pueden enlazar (productos, categorias). Estos modelos estarán relacionados entre sí a través de MongoDB. Tambien está el registro de Usuarios y Login. Adicionalmente para temas de pruebas también fueron agregados las consultas, eliminación y actualización tanto de Usuarios como de Productos y Categorias, dejando abierta la oportunidad de realizar un CRUD desde el FrontEnd.
+Se utilizó MongoDB Atlas para la persistencia de datos, y construí un modelo de "usuario", un modelo de "producto" y un modelo de "categorias". Se pueden enlazar (productos, categorias). Estos modelos estarán relacionados entre sí a través de MongoDB. Tambien está el registro de Usuarios y Login. Adicionalmente para temas de pruebas también fueron agregados las consultas, eliminación y actualización tanto de Usuarios como de Productos y Categorias, dejando abierta la oportunidad de realizar un CRUD desde el FrontEnd.
 
 El proyecto posée una estructura de carpetas clara con controladores, modelos, rutas y middleware. Finalmente, se desplegó la aplicación a través de render.com y la base de datos en MongoDB Atlas.
 
