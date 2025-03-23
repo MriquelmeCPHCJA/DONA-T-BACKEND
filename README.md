@@ -87,7 +87,7 @@ El proyecto posée una estructura de carpetas clara con controladores, modelos, 
 ## 📂 Estructura del Proyecto
 
 ```
-📦 PROYECTO-6
+📦 DONA-T-BACKEND
 │
 ├── 📂 config
 │         └── db.js
