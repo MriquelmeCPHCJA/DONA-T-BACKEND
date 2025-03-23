@@ -2,10 +2,6 @@
 const Cart = require("../models/Cart");
 const User = require("../models/User");
 
-// Importa los modelos de Cart y User
-const Cart = require("../models/Cart");
-const User = require("../models/User");
-
 // Función para crear un carrito
 exports.createCart = async (req, res) => {
   // Crea un carrito con los datos de la solicitud

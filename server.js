@@ -7,7 +7,7 @@ require('dotenv').config();
 const productRoutes = require('./routes/productRoutes');
 const userRoutes = require('./routes/userRoutes');
 const categoryRoutes = require('./routes/categoryProductsRoutes');
-const cartRoutes = require('./routes/cart');
+const cartRoutes = require('./routes/cartRoutes');
 const paymentRoutes = require('./routes/paymentRoutes');
 
 const port = process.env.PORT || 3002;
